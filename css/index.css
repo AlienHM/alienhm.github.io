@@ -1,0 +1,31 @@
+.u-header .u-logo-image-1 {
+    width: 7rem;
+    height: auto;
+}
+.u-custom-color-1{
+    background-color: #d2d1d5;
+}
+.basliq{
+    font-family: "Source Sans Pro", sans-serif;
+    font-size:60px;
+    text-transform: uppercase;
+    font-weight:600;
+    text-align: center;
+    display: block;
+
+}
+header#sec-32cc {
+    background-color: #ffffff;
+}
+.u-body{
+    background: rgb(255,230,0);
+    background: linear-gradient(0deg, rgba(255,230,0,1) 0%, rgba(227,229,229,1) 100%);
+}
+.blue{
+    color: #2300af;
+    display: inline;
+}
+.yellow{
+    color: #ffe600;
+    display: inline;
+}
